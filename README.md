@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">☕ Full Stack Java Developer | Back-End Programmer | 👩‍💻 Java, Spring Boot & Web Development Enthusiast<br><br>🚀 Hi there! My name is Ryan and I'm a Programmer, from Brazil. I'm a passionate Full Stack Java Developer, continuously learning and exploring new technologies to build efficient and scalable applications. My main expertise lies in Java and Spring Boot for backend development, but I also delve into web development, always aiming for clean code, best practices, and high performance. Let’s connect and create amazing projects together!</p>
+<p align="center">👩‍💻 Full Stack Java Developer<br><br>🚀 Hi there! My name is Ryan and I'm a Programmer, from Brazil. I'm a passionate Full Stack Developer, continuously learning and exploring new technologies to build efficient and scalable applications. My main expertise lies in backend development, but I also delve into web development, always aiming for clean code, best practices, and high performance. Let’s connect and create amazing projects together!</p>
 
 ###
 
